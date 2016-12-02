@@ -1,0 +1,2 @@
+# Ignite auto-configurations
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.minlia.ignite.spring.IgniteAutoConfiguration
